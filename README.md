@@ -1,2 +1,1 @@
-# sessionmaster
-Session Master
+# loginSession
